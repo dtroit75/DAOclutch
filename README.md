@@ -41,6 +41,9 @@ Each CLUTCH token represents real-world action tied to environmental impact, pri
 * [Ohara AI](https://ohara.ai/): A platform for creating and deploying AI-powered applications.
 * **OnchainKit**: A toolkit for integrating blockchain functionalities, including wallet connections and token transactions.([ohara.ai][1])
 
+## Pitch deck
+(https://gamma.app/docs/ClutchDAO-Powering-Africas-Grassroots-Basketball-Through-ESG-Stab-8cxpdobqh5u5d42)
+
 ## BaseScan
 Live deployment link on BaseScan https://basescan.org/address/0x7f05fdf089cf9ec56231849da1ebfd69f29b6ca3
 
