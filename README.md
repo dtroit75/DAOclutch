@@ -16,14 +16,14 @@ Each CLUTCH token represents real-world action tied to environmental impact, pri
 * **Vote** on environmental initiatives related to basketball.
 * **Donate** tokens to support eco-friendly projects.
 * **Connect** various cryptocurrency wallets seamlessly.
-* **Earn rewards** for participating in environmental activities.([ohara.ai][1])
+* **Earn rewards** for participating in environmental activities.
 
 ## 🔧 Features
 
 * **Decentralized Governance**: Users can participate in decision-making by voting on sustainability projects.
 * **Token Donations**: Support environmental initiatives through token contributions.
 * **Wallet Integration**: Connect multiple wallets using OnchainKit for secure transactions.
-* **Reward System**: Incentivizes users to engage in eco-friendly activities by offering rewards.([ohara.ai][1], [ohara.ai][2])
+* **Reward System**: Incentivizes users to engage in eco-friendly activities by offering rewards.
 
 ## 🚀 Getting Started
 
@@ -60,11 +60,5 @@ We welcome contributions to enhance the CLUTCH DAO app.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-For more information or support, please visit the [Ohara AI website](https://ohara.ai/).
 
----
-
-[1]: https://ohara.ai/?utm_source=chatgpt.com "Ohara AI"
-[2]: https://ohara.ai/spaces/ai?utm_source=chatgpt.com "ai - Ohara"
